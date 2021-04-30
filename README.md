@@ -10,4 +10,4 @@
 
 -რთული ტესტი
 
-![](project.jpg)
+![](project-small.jpg)
